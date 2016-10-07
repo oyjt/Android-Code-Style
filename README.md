@@ -19,3 +19,6 @@ Android源于java，所以编码规范类似，但又有不同之处。团队协
 - [Android开发中的命名规范](http://www.apkbus.com/forum.php?mod=viewthread&tid=208865)<br>
 [http://www.apkbus.com/forum.php?mod=viewthread&tid=208865](http://www.apkbus.com/forum.php?mod=viewthread&tid=208865)
 
+- [Android开发规范](http://androidwing.net/index.php/21)<br>
+[http://androidwing.net/index.php/21](http://androidwing.net/index.php/21)
+
