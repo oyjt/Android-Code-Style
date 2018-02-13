@@ -22,3 +22,6 @@ Android源于java，所以编码规范类似，但又有不同之处。团队协
 - [Android开发规范](http://androidwing.net/index.php/21)<br>
 [http://androidwing.net/index.php/21](http://androidwing.net/index.php/21)
 
+- [**Android 开发规范（完结版）**](https://juejin.im/post/5a24ec145188254dd9363b81)
+[https://juejin.im/post/5a24ec145188254dd9363b81](https://juejin.im/post/5a24ec145188254dd9363b81)
+
