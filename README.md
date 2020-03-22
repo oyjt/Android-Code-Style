@@ -25,3 +25,6 @@ Android源于java，所以编码规范类似，但又有不同之处。团队协
 - [**Android 开发规范（完结版）**](https://github.com/Blankj/AndroidStandardDevelop)<br>
 [https://github.com/Blankj/AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)
 
+- [**阿里巴巴Android开发手册（推荐）**](https://juejin.im/post/5ca42bac51882543f96dc4b7)<br>
+[https://juejin.im/post/5ca42bac51882543f96dc4b7](https://juejin.im/post/5ca42bac51882543f96dc4b7)
+
